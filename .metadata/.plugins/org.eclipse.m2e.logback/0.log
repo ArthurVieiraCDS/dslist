@@ -1683,3 +1683,94 @@
 2025-01-21 13:26:37,966 [Worker-2: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
 2025-01-21 13:26:37,967 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-01-21 13:26:37,968 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 13:27:33,877 [Worker-25: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 13:27:33,880 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 13:27:33,881 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 13:27:33,882 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 13:27:33,884 [Worker-25: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 13:27:33,886 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 13:27:33,886 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 13:27:58,299 [Worker-26: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 13:27:58,300 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 13:27:58,301 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 13:27:58,302 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 13:27:58,303 [Worker-26: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 13:27:58,304 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 13:27:58,305 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 14:49:40,365 [Worker-13: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:49:40,371 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:49:40,372 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 14:49:40,374 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 14:49:40,375 [Worker-13: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:49:40,377 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:49:40,377 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 14:56:10,837 [Worker-19: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:56:10,839 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:56:10,840 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 14:56:10,842 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 14:56:10,843 [Worker-19: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:56:10,844 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:56:10,845 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 14:56:34,534 [Worker-21: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:56:34,536 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:56:34,537 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 14:56:34,538 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 14:56:34,539 [Worker-21: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:56:34,541 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:56:34,541 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 14:56:40,263 [Worker-26: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:56:40,264 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:56:40,265 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 14:56:40,266 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 14:56:40,268 [Worker-26: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:56:40,270 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:56:40,270 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 14:58:54,759 [Worker-25: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:58:54,761 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:58:54,762 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 14:58:54,764 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 14:58:54,765 [Worker-25: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:58:54,766 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:58:54,766 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 14:59:08,475 [Worker-28: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:59:08,477 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:59:08,478 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 14:59:08,479 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 14:59:08,480 [Worker-28: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 14:59:08,482 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 14:59:08,482 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 15:03:28,652 [Worker-13: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:03:28,654 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:03:28,655 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 15:03:28,657 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 15:03:28,659 [Worker-13: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:03:28,660 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:03:28,660 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 15:03:42,199 [Worker-28: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:03:42,201 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:03:42,202 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 15:03:42,204 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 15:03:42,206 [Worker-28: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:03:42,207 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:03:42,207 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 15:07:03,069 [Worker-28: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:07:03,071 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:07:03,072 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 15:07:03,075 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 15:07:03,076 [Worker-28: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:07:03,078 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:07:03,078 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 15:07:10,583 [Worker-18: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:07:10,585 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:07:10,586 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 15:07:10,588 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 15:07:10,589 [Worker-18: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:07:10,591 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:07:10,591 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
+2025-01-21 15:15:33,189 [Worker-27: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mresources[0;1;33m ([0;1;33mdefault-resources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:15:33,191 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:15:33,192 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2025-01-21 15:15:33,194 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-01-21 15:15:33,195 [Worker-27: Building] WARN  o.a.m.l.i.DefaultMojoExecutionConfigurator - [1;33mParameter '[0;1;33mpropertiesEncoding[0;1;33m' is unknown for plugin '[0;1;33mmaven-resources-plugin[0;1;33m:[0;1;33m3.1.0[0;1;33m:[0;1;33mtestResources[0;1;33m ([0;1;33mdefault-testResources[0;1;33m)[0;1;33m'[m
+2025-01-21 15:15:33,197 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-01-21 15:15:33,197 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ProjetosCursoJava\dslist\src\test\resources
